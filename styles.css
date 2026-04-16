@@ -1,0 +1,31 @@
+* {
+    font-family: 'roboto', sans-serif;
+    margin: 0;
+    ;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+header {
+    background-color: #1f2937;
+    color: white;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    margin: 0 20px;
+}
+
+.right-links {
+    display: flex;
+    gap: 30px;
+}
