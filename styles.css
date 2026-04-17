@@ -177,3 +177,16 @@ header {
 .action-text {
     color: #f9faf8;
 }
+
+/* Footer */
+footer {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+#footer-text {
+    color: #E5e7eb;
+    font-size: 18px;
+}
