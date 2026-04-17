@@ -136,3 +136,44 @@ header {
     align-self: flex-end;
     font-weight: bold;
 }
+
+/* Action Section */
+.action-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px ;
+}
+
+.action-container {
+    background-color: #3882f6;
+    width: 900px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 15px;
+    padding: 25px 100px;
+}
+.action-main {
+    width: 400px;
+}
+
+.action-button {
+    background-color: #3882f6;
+    color: #E5e7eb;
+    margin-right: 60px;
+    border: 2px solid white;
+    border-radius: 8px;
+    height: 30px;
+    padding: 0 30px;
+}
+
+.action-title {
+    color: #f9faf8;
+    margin-bottom: 5px;
+    font-size: 25px;
+}
+
+.action-text {
+    color: #f9faf8;
+}
